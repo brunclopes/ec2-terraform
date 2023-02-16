@@ -1,0 +1,7 @@
+.terraform/ 
+scripts/
+*.hcl
+*.csv
+*.pem
+*.tfstate
+variables.tf
